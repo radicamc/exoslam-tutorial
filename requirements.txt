@@ -1,0 +1,17 @@
+applesoss==2.1.0
+astropy
+astroquery
+bottleneck
+corner
+jwst==1.17.1
+matplotlib
+more_itertools
+numpy
+pandas
+ray
+scikit-learn
+scipy
+spectres
+tqdm
+pastasoss
+pyyaml
