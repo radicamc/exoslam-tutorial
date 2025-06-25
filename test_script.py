@@ -1,6 +1,5 @@
 from exotedrf import stage1
 from exotedrf import stage2
-from exotedrf import stage3
 
 from exotedrf.utils import fancyprint
 

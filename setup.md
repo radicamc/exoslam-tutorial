@@ -24,6 +24,7 @@ git clone https://github.com/radicamc/exoslam-tutorial
 		cd exoslam-tutorial 
      b. run the test script:
 python test_script.py 
-If the script ran to completion and printed out the following:
-		Asd
+If the script ran to completion and printed out something like the following:
+		2025-06-25 12:24:01.752 - exoTEDRF - INFO - Teddy bears!
 then you’re all good to go!
+Note that the date and time shown will depend on when you run this command. 
