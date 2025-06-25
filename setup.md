@@ -1,5 +1,7 @@
 The following is important setup information for the JWST data analysis tutorial and needs to be completed **before** coming to the tutorial! You may encounter some issues, especially if you are new to programming and there will not be time during the tutorial to do this!
 
+If you encounter difficulties with the installation steps, the easiest thing to do is to post an issue on the tutorial’s GitHub page here: https://github.com/radicamc/exoslam-tutorial/issues describing your issue. The earlier you do this, the better chance someone has of being able to help!
+
 0. If using Mac or Linux, ignore this step. If you have a Windows machine, your life is going to be more difficult. You’re first going to need to install a linux distribution on your windows machine to make sure everything runs smoothly. The recommended way to do this is with Windows Subsystem for Linux: https://learn.microsoft.com/en-us/windows/wsl/install. Once you have WSL set up (the default ubuntu linux distribution should be fine), you can proceed with the rest of the setup. 
 1. Install anaconda – this is going to be our preferred way of accessing python. Follow the steps here: https://www.anaconda.com/docs/getting-started/anaconda/install#linux-installer to install the appropriate version of anaconda for your OS. Note if you are using WSL installed above, you’ll need the Linux installer. 
 2. Create and set up a conda environment for this tutorial. 
