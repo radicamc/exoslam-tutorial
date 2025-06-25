@@ -14,7 +14,7 @@ conda create -n “exotedrf-tutorial” python=3.10
      d. Install the package manager pip:
 conda install pip 
 3. Install exoTEDRF:
-	pip install exotedrf
+	pip install exotedrf --no-cache-dir
 Note: for those of you on Mac, you may need to also change the default installation of numpy to avoid some issues later on. This isn’t an issue with Linux, and I don’t know about Windows (but if you’re using WSL this should be taken care of). It may also just be a Mac silicon chip issue, but I cannot confirm or deny this.  
 	pip install numpy==1.24.3
 Pip may throw you warnings that this version of numpy is incompatible with some other packages, but you can ignore that.  
